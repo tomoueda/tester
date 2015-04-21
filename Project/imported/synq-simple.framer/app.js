@@ -3,6 +3,9 @@ myLayers = Framer.Importer.load("imported/synq-simple")
 // Demo code
 // Bounce all the views
 
+//myLayers.x = 0
+//myLayers.y = 0
+
 for (layerName in myLayers) {
 
 	var layer = myLayers[layerName];

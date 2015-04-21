@@ -940,8 +940,6 @@ window.__imported__["synq-simple/layers.json.js"] = [
       },
       {
         "maskFrame" : null,
-        "id" : "D0655200-C41F-44B1-A1B1-5646F00CA64A",
-        "visible" : true,
         "children" : [
           {
             "maskFrame" : null,
@@ -1044,15 +1042,8 @@ window.__imported__["synq-simple/layers.json.js"] = [
             "name" : "Header"
           }
         ],
-        "image" : {
-          "path" : "images\/Layer-WaitingForMyResponse-D0655200-C41F-44B1-A1B1-5646F00CA64A.png",
-          "frame" : {
-            "y" : -1437,
-            "x" : 298,
-            "width" : 375,
-            "height" : 144
-          }
-        },
+        "id" : "D0655200-C41F-44B1-A1B1-5646F00CA64A",
+        "visible" : true,
         "imageType" : "png",
         "layerFrame" : {
           "y" : -1437,
@@ -1064,8 +1055,6 @@ window.__imported__["synq-simple/layers.json.js"] = [
       },
       {
         "maskFrame" : null,
-        "id" : "4E06A7B0-2F36-4A89-9948-38B3CBC3C911",
-        "visible" : true,
         "children" : [
           {
             "maskFrame" : null,
@@ -1168,15 +1157,8 @@ window.__imported__["synq-simple/layers.json.js"] = [
             "name" : "Header"
           }
         ],
-        "image" : {
-          "path" : "images\/Layer-WaitingForTheirResponse-4E06A7B0-2F36-4A89-9948-38B3CBC3C911.png",
-          "frame" : {
-            "y" : -1289,
-            "x" : 298,
-            "width" : 375,
-            "height" : 144
-          }
-        },
+        "id" : "4E06A7B0-2F36-4A89-9948-38B3CBC3C911",
+        "visible" : true,
         "imageType" : "png",
         "layerFrame" : {
           "y" : -1289,
@@ -1188,8 +1170,6 @@ window.__imported__["synq-simple/layers.json.js"] = [
       },
       {
         "maskFrame" : null,
-        "id" : "3AE6BFF9-A999-4C1A-9999-AE92DB9D3752",
-        "visible" : true,
         "children" : [
           {
             "maskFrame" : null,
@@ -1489,15 +1469,8 @@ window.__imported__["synq-simple/layers.json.js"] = [
             "name" : "C"
           }
         ],
-        "image" : {
-          "path" : "images\/Layer-AlphabeticList-3AE6BFF9-A999-4C1A-9999-AE92DB9D3752.png",
-          "frame" : {
-            "y" : -1132,
-            "x" : 298,
-            "width" : 375,
-            "height" : 617
-          }
-        },
+        "id" : "3AE6BFF9-A999-4C1A-9999-AE92DB9D3752",
+        "visible" : true,
         "imageType" : "png",
         "layerFrame" : {
           "y" : -1132,
@@ -1509,8 +1482,6 @@ window.__imported__["synq-simple/layers.json.js"] = [
       },
       {
         "maskFrame" : null,
-        "id" : "84ABA139-011D-4C05-99DF-34C95313FE4C",
-        "visible" : false,
         "children" : [
           {
             "maskFrame" : null,
@@ -2403,21 +2374,14 @@ window.__imported__["synq-simple/layers.json.js"] = [
             "name" : "Keys"
           }
         ],
-        "image" : {
-          "path" : "images\/Layer-Keyboard-84ABA139-011D-4C05-99DF-34C95313FE4C.png",
-          "frame" : {
-            "y" : -1200,
-            "x" : 198,
-            "width" : 575,
-            "height" : 458
-          }
-        },
+        "id" : "84ABA139-011D-4C05-99DF-34C95313FE4C",
+        "visible" : false,
         "imageType" : "png",
         "layerFrame" : {
           "y" : -1200,
           "x" : 198,
           "width" : 575,
-          "height" : 458
+          "height" : 454
         },
         "name" : "Keyboard"
       }
