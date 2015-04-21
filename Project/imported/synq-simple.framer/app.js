@@ -1,31 +1,25 @@
 myLayers = Framer.Importer.load("imported/synq-simple")
 
-// Demo code
-// Bounce all the views
+//Initial Clean up
+mainScreen = myLayers.MainScreen
+mainScreen.x = 0
+mainScreen.y = 0
+mainScreen.backgroundColor = "#FFFFFF"
 
-//myLayers.x = 0
-//myLayers.y = 0
-
-for (layerName in myLayers) {
-
-	var layer = myLayers[layerName];
-
-	layer.on(Events.Click, function(event, layer) {
-		
-		// Wind up the layer by making it smaller
-		layer.scale = 0.7
-
-		// Animate the layer back to the original size with a spring
-		layer.animate({
-			properties: {scale:1.0},
-			curve: "spring",
-			curveOptions: {
-				friction: 15,
-				tension: 1000,
-			}
-		})
-
-		// Only animate this layer, not other ones below
-		event.stopPropagation()
-	})
+alphabeticList = myLayers.AlphabeticList
+alphabeticList.scroll = true
+contacts = myLayers.A.subLayers.concat(myLayers.B.subLayers)
+myLayers.CreateEventInviteForm.visible = false
+mutualAvailability = myLayers.MutualAvailabilityView
+mutualAvailability.backgroundColor = "#FFFFFF"
+mutualAvailability.visible = true
+mutualAvailability.x = 0
+mutualAvailability.y = 0
+    
+for (i = 0; i < contacts.length; i++) {
+    contact = contacts[i]
+    contact.on(Events.Click, function (event, layer) {
+	mutualAvailability.visible = true
+    })
+	       
 }
