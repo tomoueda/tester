@@ -68,20 +68,35 @@ window.__imported__["synq-simple/layers.json.js"] = [
             "children" : [
               {
                 "maskFrame" : null,
-                "id" : "6372DA51-BB64-45B7-9DE5-849ED8D27F1B",
-                "visible" : true,
                 "children" : [
+                  {
+                    "maskFrame" : null,
+                    "id" : "6372DA51-BB64-45B7-9DE5-849ED8D27F1B",
+                    "visible" : true,
+                    "children" : [
 
-                ],
-                "image" : {
-                  "path" : "images\/Layer-DateTimeSuggestion-6372DA51-BB64-45B7-9DE5-849ED8D27F1B.png",
-                  "frame" : {
-                    "y" : -1445,
-                    "x" : 563,
-                    "width" : 110,
-                    "height" : 151
+                    ],
+                    "image" : {
+                      "path" : "images\/Layer-DateTimeSuggestion-6372DA51-BB64-45B7-9DE5-849ED8D27F1B.png",
+                      "frame" : {
+                        "y" : -1445,
+                        "x" : 563,
+                        "width" : 110,
+                        "height" : 151
+                      }
+                    },
+                    "imageType" : "png",
+                    "layerFrame" : {
+                      "y" : -1445,
+                      "x" : 563,
+                      "width" : 110,
+                      "height" : 151
+                    },
+                    "name" : "DateTimeSuggestion"
                   }
-                },
+                ],
+                "id" : "726CCE92-CCF0-454D-9094-9361DBC426CA",
+                "visible" : true,
                 "imageType" : "png",
                 "layerFrame" : {
                   "y" : -1445,
@@ -89,536 +104,870 @@ window.__imported__["synq-simple/layers.json.js"] = [
                   "width" : 110,
                   "height" : 151
                 },
-                "name" : "DateTimeSuggestion"
+                "name" : "DateTimeSuggestions"
+              },
+              {
+                "maskFrame" : null,
+                "id" : "75C57E8B-4579-4C2F-9D58-DA0ED0908496",
+                "visible" : true,
+                "children" : [
+                  {
+                    "maskFrame" : null,
+                    "id" : "487EF14E-C3DF-441D-BF96-815463D59762",
+                    "visible" : true,
+                    "children" : [
+
+                    ],
+                    "image" : {
+                      "path" : "images\/Layer-Header-487EF14E-C3DF-441D-BF96-815463D59762.png",
+                      "frame" : {
+                        "y" : -1445,
+                        "x" : 298,
+                        "width" : 265,
+                        "height" : 50
+                      }
+                    },
+                    "imageType" : "png",
+                    "layerFrame" : {
+                      "y" : -1445,
+                      "x" : 298,
+                      "width" : 265,
+                      "height" : 50
+                    },
+                    "name" : "Header"
+                  },
+                  {
+                    "maskFrame" : null,
+                    "children" : [
+                      {
+                        "maskFrame" : null,
+                        "id" : "658D3B7C-E692-49C6-BA32-ADDD39268C7A",
+                        "visible" : true,
+                        "children" : [
+
+                        ],
+                        "image" : {
+                          "path" : "images\/Layer-TimeLabel_Copy_11-658D3B7C-E692-49C6-BA32-ADDD39268C7A.png",
+                          "frame" : {
+                            "y" : -825,
+                            "x" : 316,
+                            "width" : 247,
+                            "height" : 12
+                          }
+                        },
+                        "imageType" : "png",
+                        "layerFrame" : {
+                          "y" : -825,
+                          "x" : 316,
+                          "width" : 247,
+                          "height" : 12
+                        },
+                        "name" : "TimeLabel_Copy_11"
+                      },
+                      {
+                        "maskFrame" : null,
+                        "id" : "54C2F5E5-347E-47C6-BCB5-238DE2C368FA",
+                        "visible" : true,
+                        "children" : [
+
+                        ],
+                        "image" : {
+                          "path" : "images\/Layer-TimeLabel_Copy_10-54C2F5E5-347E-47C6-BCB5-238DE2C368FA.png",
+                          "frame" : {
+                            "y" : -875,
+                            "x" : 316,
+                            "width" : 247,
+                            "height" : 11
+                          }
+                        },
+                        "imageType" : "png",
+                        "layerFrame" : {
+                          "y" : -875,
+                          "x" : 316,
+                          "width" : 247,
+                          "height" : 11
+                        },
+                        "name" : "TimeLabel_Copy_10"
+                      },
+                      {
+                        "maskFrame" : null,
+                        "id" : "EF0BA222-1DC0-44DF-A77F-B7392AA3AF87",
+                        "visible" : true,
+                        "children" : [
+
+                        ],
+                        "image" : {
+                          "path" : "images\/Layer-TimeLabel_Copy_9-EF0BA222-1DC0-44DF-A77F-B7392AA3AF87.png",
+                          "frame" : {
+                            "y" : -925,
+                            "x" : 316,
+                            "width" : 247,
+                            "height" : 12
+                          }
+                        },
+                        "imageType" : "png",
+                        "layerFrame" : {
+                          "y" : -925,
+                          "x" : 316,
+                          "width" : 247,
+                          "height" : 12
+                        },
+                        "name" : "TimeLabel_Copy_9"
+                      },
+                      {
+                        "maskFrame" : null,
+                        "id" : "8C7F012C-95E4-47F8-B996-4A104E4170CF",
+                        "visible" : true,
+                        "children" : [
+
+                        ],
+                        "image" : {
+                          "path" : "images\/Layer-TimeLabel_Copy_8-8C7F012C-95E4-47F8-B996-4A104E4170CF.png",
+                          "frame" : {
+                            "y" : -975,
+                            "x" : 316,
+                            "width" : 247,
+                            "height" : 12
+                          }
+                        },
+                        "imageType" : "png",
+                        "layerFrame" : {
+                          "y" : -975,
+                          "x" : 316,
+                          "width" : 247,
+                          "height" : 12
+                        },
+                        "name" : "TimeLabel_Copy_8"
+                      },
+                      {
+                        "maskFrame" : null,
+                        "id" : "387FB6EB-782F-486F-A86A-071A261B2A6E",
+                        "visible" : true,
+                        "children" : [
+
+                        ],
+                        "image" : {
+                          "path" : "images\/Layer-TimeLabel_Copy_7-387FB6EB-782F-486F-A86A-071A261B2A6E.png",
+                          "frame" : {
+                            "y" : -1025,
+                            "x" : 316,
+                            "width" : 247,
+                            "height" : 11
+                          }
+                        },
+                        "imageType" : "png",
+                        "layerFrame" : {
+                          "y" : -1025,
+                          "x" : 316,
+                          "width" : 247,
+                          "height" : 11
+                        },
+                        "name" : "TimeLabel_Copy_7"
+                      },
+                      {
+                        "maskFrame" : null,
+                        "id" : "62105B4A-0AD2-4553-878D-D2B3DD3F1829",
+                        "visible" : true,
+                        "children" : [
+
+                        ],
+                        "image" : {
+                          "path" : "images\/Layer-TimeLabel_Copy_6-62105B4A-0AD2-4553-878D-D2B3DD3F1829.png",
+                          "frame" : {
+                            "y" : -1075,
+                            "x" : 316,
+                            "width" : 247,
+                            "height" : 12
+                          }
+                        },
+                        "imageType" : "png",
+                        "layerFrame" : {
+                          "y" : -1075,
+                          "x" : 316,
+                          "width" : 247,
+                          "height" : 12
+                        },
+                        "name" : "TimeLabel_Copy_6"
+                      },
+                      {
+                        "maskFrame" : null,
+                        "id" : "63770881-2A6A-42DD-AA33-9A28B770FF4D",
+                        "visible" : true,
+                        "children" : [
+
+                        ],
+                        "image" : {
+                          "path" : "images\/Layer-TimeLabel_Copy_5-63770881-2A6A-42DD-AA33-9A28B770FF4D.png",
+                          "frame" : {
+                            "y" : -1125,
+                            "x" : 316,
+                            "width" : 247,
+                            "height" : 11
+                          }
+                        },
+                        "imageType" : "png",
+                        "layerFrame" : {
+                          "y" : -1125,
+                          "x" : 316,
+                          "width" : 247,
+                          "height" : 11
+                        },
+                        "name" : "TimeLabel_Copy_5"
+                      },
+                      {
+                        "maskFrame" : null,
+                        "id" : "67ABF7FC-1284-4EA2-8F78-515CD60672DA",
+                        "visible" : true,
+                        "children" : [
+
+                        ],
+                        "image" : {
+                          "path" : "images\/Layer-TimeLabel_Copy_4-67ABF7FC-1284-4EA2-8F78-515CD60672DA.png",
+                          "frame" : {
+                            "y" : -1175,
+                            "x" : 317,
+                            "width" : 246,
+                            "height" : 11
+                          }
+                        },
+                        "imageType" : "png",
+                        "layerFrame" : {
+                          "y" : -1175,
+                          "x" : 317,
+                          "width" : 246,
+                          "height" : 11
+                        },
+                        "name" : "TimeLabel_Copy_4"
+                      },
+                      {
+                        "maskFrame" : null,
+                        "id" : "D0255A71-890C-4113-9691-AD47082DBE57",
+                        "visible" : true,
+                        "children" : [
+
+                        ],
+                        "image" : {
+                          "path" : "images\/Layer-TimeLabel_Copy_2-D0255A71-890C-4113-9691-AD47082DBE57.png",
+                          "frame" : {
+                            "y" : -1225,
+                            "x" : 315,
+                            "width" : 248,
+                            "height" : 12
+                          }
+                        },
+                        "imageType" : "png",
+                        "layerFrame" : {
+                          "y" : -1225,
+                          "x" : 315,
+                          "width" : 248,
+                          "height" : 12
+                        },
+                        "name" : "TimeLabel_Copy_2"
+                      },
+                      {
+                        "maskFrame" : null,
+                        "id" : "69766821-2D9B-4EA3-8D89-05890D78D1DA",
+                        "visible" : true,
+                        "children" : [
+
+                        ],
+                        "image" : {
+                          "path" : "images\/Layer-TimeLabel_Copy-69766821-2D9B-4EA3-8D89-05890D78D1DA.png",
+                          "frame" : {
+                            "y" : -1275,
+                            "x" : 309,
+                            "width" : 254,
+                            "height" : 11
+                          }
+                        },
+                        "imageType" : "png",
+                        "layerFrame" : {
+                          "y" : -1275,
+                          "x" : 309,
+                          "width" : 254,
+                          "height" : 11
+                        },
+                        "name" : "TimeLabel_Copy"
+                      },
+                      {
+                        "maskFrame" : null,
+                        "id" : "B21BA3F0-8A34-469F-8EE8-BD6CD4A099CE",
+                        "visible" : true,
+                        "children" : [
+
+                        ],
+                        "image" : {
+                          "path" : "images\/Layer-TimeLabel_Copy_18-B21BA3F0-8A34-469F-8EE8-BD6CD4A099CE.png",
+                          "frame" : {
+                            "y" : -1675,
+                            "x" : 316,
+                            "width" : 247,
+                            "height" : 12
+                          }
+                        },
+                        "imageType" : "png",
+                        "layerFrame" : {
+                          "y" : -1675,
+                          "x" : 316,
+                          "width" : 247,
+                          "height" : 12
+                        },
+                        "name" : "TimeLabel_Copy_18"
+                      },
+                      {
+                        "maskFrame" : null,
+                        "id" : "0E89EEFB-C9A4-4799-A32D-D7F622E599C5",
+                        "visible" : true,
+                        "children" : [
+
+                        ],
+                        "image" : {
+                          "path" : "images\/Layer-TimeLabel_Copy_17-0E89EEFB-C9A4-4799-A32D-D7F622E599C5.png",
+                          "frame" : {
+                            "y" : -1625,
+                            "x" : 316,
+                            "width" : 247,
+                            "height" : 11
+                          }
+                        },
+                        "imageType" : "png",
+                        "layerFrame" : {
+                          "y" : -1625,
+                          "x" : 316,
+                          "width" : 247,
+                          "height" : 11
+                        },
+                        "name" : "TimeLabel_Copy_17"
+                      },
+                      {
+                        "maskFrame" : null,
+                        "id" : "1973D290-D14D-4F16-9275-55E5799D6748",
+                        "visible" : true,
+                        "children" : [
+
+                        ],
+                        "image" : {
+                          "path" : "images\/Layer-TimeLabel_Copy_16-1973D290-D14D-4F16-9275-55E5799D6748.png",
+                          "frame" : {
+                            "y" : -1575,
+                            "x" : 316,
+                            "width" : 247,
+                            "height" : 12
+                          }
+                        },
+                        "imageType" : "png",
+                        "layerFrame" : {
+                          "y" : -1575,
+                          "x" : 316,
+                          "width" : 247,
+                          "height" : 12
+                        },
+                        "name" : "TimeLabel_Copy_16"
+                      },
+                      {
+                        "maskFrame" : null,
+                        "id" : "28D8BFA4-C1C9-4CC5-8BB2-E658202FD59A",
+                        "visible" : true,
+                        "children" : [
+
+                        ],
+                        "image" : {
+                          "path" : "images\/Layer-TimeLabel_Copy_15-28D8BFA4-C1C9-4CC5-8BB2-E658202FD59A.png",
+                          "frame" : {
+                            "y" : -1525,
+                            "x" : 316,
+                            "width" : 247,
+                            "height" : 12
+                          }
+                        },
+                        "imageType" : "png",
+                        "layerFrame" : {
+                          "y" : -1525,
+                          "x" : 316,
+                          "width" : 247,
+                          "height" : 12
+                        },
+                        "name" : "TimeLabel_Copy_15"
+                      },
+                      {
+                        "maskFrame" : null,
+                        "id" : "F16A74AA-973B-409F-A79D-15C4226E1D94",
+                        "visible" : true,
+                        "children" : [
+
+                        ],
+                        "image" : {
+                          "path" : "images\/Layer-TimeLabel_Copy_14-F16A74AA-973B-409F-A79D-15C4226E1D94.png",
+                          "frame" : {
+                            "y" : -1475,
+                            "x" : 316,
+                            "width" : 247,
+                            "height" : 11
+                          }
+                        },
+                        "imageType" : "png",
+                        "layerFrame" : {
+                          "y" : -1475,
+                          "x" : 316,
+                          "width" : 247,
+                          "height" : 11
+                        },
+                        "name" : "TimeLabel_Copy_14"
+                      },
+                      {
+                        "maskFrame" : null,
+                        "id" : "DF7E0BB5-E9D0-4F0F-B105-1C7D8D1E30FC",
+                        "visible" : true,
+                        "children" : [
+
+                        ],
+                        "image" : {
+                          "path" : "images\/Layer-TimeLabel_Copy_13-DF7E0BB5-E9D0-4F0F-B105-1C7D8D1E30FC.png",
+                          "frame" : {
+                            "y" : -1425,
+                            "x" : 316,
+                            "width" : 247,
+                            "height" : 12
+                          }
+                        },
+                        "imageType" : "png",
+                        "layerFrame" : {
+                          "y" : -1425,
+                          "x" : 316,
+                          "width" : 247,
+                          "height" : 12
+                        },
+                        "name" : "TimeLabel_Copy_13"
+                      },
+                      {
+                        "maskFrame" : null,
+                        "id" : "81C43258-1943-47B4-A353-D9AF42E0997A",
+                        "visible" : true,
+                        "children" : [
+
+                        ],
+                        "image" : {
+                          "path" : "images\/Layer-TimeLabel_Copy_12-81C43258-1943-47B4-A353-D9AF42E0997A.png",
+                          "frame" : {
+                            "y" : -1375,
+                            "x" : 316,
+                            "width" : 247,
+                            "height" : 12
+                          }
+                        },
+                        "imageType" : "png",
+                        "layerFrame" : {
+                          "y" : -1375,
+                          "x" : 316,
+                          "width" : 247,
+                          "height" : 12
+                        },
+                        "name" : "TimeLabel_Copy_12"
+                      },
+                      {
+                        "maskFrame" : null,
+                        "id" : "0E6495E7-C4FC-44FF-99CE-2C323B9C135A",
+                        "visible" : true,
+                        "children" : [
+
+                        ],
+                        "image" : {
+                          "path" : "images\/Layer-TimeLabel-0E6495E7-C4FC-44FF-99CE-2C323B9C135A.png",
+                          "frame" : {
+                            "y" : -1325,
+                            "x" : 309,
+                            "width" : 254,
+                            "height" : 12
+                          }
+                        },
+                        "imageType" : "png",
+                        "layerFrame" : {
+                          "y" : -1325,
+                          "x" : 309,
+                          "width" : 254,
+                          "height" : 12
+                        },
+                        "name" : "TimeLabel"
+                      }
+                    ],
+                    "id" : "EC246F98-4420-4009-90EA-49E5A7A95B7E",
+                    "visible" : true,
+                    "imageType" : "png",
+                    "layerFrame" : {
+                      "y" : -1675,
+                      "x" : 309,
+                      "width" : 254,
+                      "height" : 862
+                    },
+                    "name" : "TimeLabels"
+                  }
+                ],
+                "image" : {
+                  "path" : "images\/Layer-CalendarDayView-75C57E8B-4579-4C2F-9D58-DA0ED0908496.png",
+                  "frame" : {
+                    "y" : -1675,
+                    "x" : 298,
+                    "width" : 265,
+                    "height" : 862
+                  }
+                },
+                "imageType" : "png",
+                "layerFrame" : {
+                  "y" : -1675,
+                  "x" : 298,
+                  "width" : 265,
+                  "height" : 862
+                },
+                "name" : "CalendarDayView"
               }
             ],
-            "id" : "726CCE92-CCF0-454D-9094-9361DBC426CA",
+            "id" : "2365CA1A-776F-4EE1-83E8-C94F78144015",
             "visible" : true,
             "imageType" : "png",
             "layerFrame" : {
-              "y" : -1445,
-              "x" : 563,
-              "width" : 110,
-              "height" : 151
+              "y" : -1675,
+              "x" : 298,
+              "width" : 375,
+              "height" : 862
             },
-            "name" : "DateTimeSuggestions"
+            "name" : "MutualAvailabilityView"
           },
           {
             "maskFrame" : null,
-            "id" : "75C57E8B-4579-4C2F-9D58-DA0ED0908496",
-            "visible" : true,
             "children" : [
               {
                 "maskFrame" : null,
-                "id" : "487EF14E-C3DF-441D-BF96-815463D59762",
+                "id" : "9C79256A-3B59-4D07-9A59-42F6BBF0EE29",
+                "visible" : true,
+                "children" : [
+                  {
+                    "maskFrame" : null,
+                    "id" : "4872C0ED-24E0-4768-9248-AD9169C73CA4",
+                    "visible" : true,
+                    "children" : [
+
+                    ],
+                    "image" : {
+                      "path" : "images\/Layer-NoButton-4872C0ED-24E0-4768-9248-AD9169C73CA4.png",
+                      "frame" : {
+                        "y" : -1104,
+                        "x" : 325,
+                        "width" : 159,
+                        "height" : 35
+                      }
+                    },
+                    "imageType" : "png",
+                    "layerFrame" : {
+                      "y" : -1104,
+                      "x" : 325,
+                      "width" : 159,
+                      "height" : 35
+                    },
+                    "name" : "NoButton"
+                  },
+                  {
+                    "maskFrame" : null,
+                    "id" : "8E152E24-EFF5-4732-8043-195DD07D9760",
+                    "visible" : true,
+                    "children" : [
+
+                    ],
+                    "image" : {
+                      "path" : "images\/Layer-YesButton-8E152E24-EFF5-4732-8043-195DD07D9760.png",
+                      "frame" : {
+                        "y" : -1104,
+                        "x" : 483,
+                        "width" : 158,
+                        "height" : 35
+                      }
+                    },
+                    "imageType" : "png",
+                    "layerFrame" : {
+                      "y" : -1104,
+                      "x" : 483,
+                      "width" : 158,
+                      "height" : 35
+                    },
+                    "name" : "YesButton"
+                  }
+                ],
+                "image" : {
+                  "path" : "images\/Layer-SendEventInviteConfirm-9C79256A-3B59-4D07-9A59-42F6BBF0EE29.png",
+                  "frame" : {
+                    "y" : -1295,
+                    "x" : 325,
+                    "width" : 316,
+                    "height" : 226
+                  }
+                },
+                "imageType" : "png",
+                "layerFrame" : {
+                  "y" : -1295,
+                  "x" : 325,
+                  "width" : 316,
+                  "height" : 226
+                },
+                "name" : "SendEventInviteConfirm"
+              },
+              {
+                "maskFrame" : null,
+                "id" : "E8CF9288-8C5E-4BDE-BDF5-E7DBC440F8F1",
                 "visible" : true,
                 "children" : [
 
                 ],
                 "image" : {
-                  "path" : "images\/Layer-Header-487EF14E-C3DF-441D-BF96-815463D59762.png",
+                  "path" : "images\/Layer-Time-E8CF9288-8C5E-4BDE-BDF5-E7DBC440F8F1.png",
                   "frame" : {
-                    "y" : -1445,
-                    "x" : 298,
-                    "width" : 265,
-                    "height" : 50
+                    "y" : -1401,
+                    "x" : 325,
+                    "width" : 213,
+                    "height" : 40
                   }
                 },
                 "imageType" : "png",
                 "layerFrame" : {
-                  "y" : -1445,
-                  "x" : 298,
-                  "width" : 265,
-                  "height" : 50
+                  "y" : -1401,
+                  "x" : 325,
+                  "width" : 213,
+                  "height" : 40
                 },
-                "name" : "Header"
+                "name" : "Time"
               },
               {
                 "maskFrame" : null,
                 "children" : [
                   {
                     "maskFrame" : null,
-                    "id" : "658D3B7C-E692-49C6-BA32-ADDD39268C7A",
+                    "id" : "B8004A6C-BF48-40BB-8206-05160FA8B35F",
                     "visible" : true,
                     "children" : [
 
                     ],
                     "image" : {
-                      "path" : "images\/Layer-TimeLabel_Copy_11-658D3B7C-E692-49C6-BA32-ADDD39268C7A.png",
+                      "path" : "images\/Layer-TextField-B8004A6C-BF48-40BB-8206-05160FA8B35F.png",
                       "frame" : {
-                        "y" : -825,
-                        "x" : 316,
-                        "width" : 247,
-                        "height" : 12
+                        "y" : -1332,
+                        "x" : 325,
+                        "width" : 321,
+                        "height" : 31
                       }
                     },
                     "imageType" : "png",
                     "layerFrame" : {
-                      "y" : -825,
-                      "x" : 316,
-                      "width" : 247,
-                      "height" : 12
+                      "y" : -1332,
+                      "x" : 325,
+                      "width" : 321,
+                      "height" : 31
                     },
-                    "name" : "TimeLabel_Copy_11"
-                  },
-                  {
-                    "maskFrame" : null,
-                    "id" : "54C2F5E5-347E-47C6-BCB5-238DE2C368FA",
-                    "visible" : true,
-                    "children" : [
-
-                    ],
-                    "image" : {
-                      "path" : "images\/Layer-TimeLabel_Copy_10-54C2F5E5-347E-47C6-BCB5-238DE2C368FA.png",
-                      "frame" : {
-                        "y" : -875,
-                        "x" : 316,
-                        "width" : 247,
-                        "height" : 11
-                      }
-                    },
-                    "imageType" : "png",
-                    "layerFrame" : {
-                      "y" : -875,
-                      "x" : 316,
-                      "width" : 247,
-                      "height" : 11
-                    },
-                    "name" : "TimeLabel_Copy_10"
-                  },
-                  {
-                    "maskFrame" : null,
-                    "id" : "EF0BA222-1DC0-44DF-A77F-B7392AA3AF87",
-                    "visible" : true,
-                    "children" : [
-
-                    ],
-                    "image" : {
-                      "path" : "images\/Layer-TimeLabel_Copy_9-EF0BA222-1DC0-44DF-A77F-B7392AA3AF87.png",
-                      "frame" : {
-                        "y" : -925,
-                        "x" : 316,
-                        "width" : 247,
-                        "height" : 12
-                      }
-                    },
-                    "imageType" : "png",
-                    "layerFrame" : {
-                      "y" : -925,
-                      "x" : 316,
-                      "width" : 247,
-                      "height" : 12
-                    },
-                    "name" : "TimeLabel_Copy_9"
-                  },
-                  {
-                    "maskFrame" : null,
-                    "id" : "8C7F012C-95E4-47F8-B996-4A104E4170CF",
-                    "visible" : true,
-                    "children" : [
-
-                    ],
-                    "image" : {
-                      "path" : "images\/Layer-TimeLabel_Copy_8-8C7F012C-95E4-47F8-B996-4A104E4170CF.png",
-                      "frame" : {
-                        "y" : -975,
-                        "x" : 316,
-                        "width" : 247,
-                        "height" : 12
-                      }
-                    },
-                    "imageType" : "png",
-                    "layerFrame" : {
-                      "y" : -975,
-                      "x" : 316,
-                      "width" : 247,
-                      "height" : 12
-                    },
-                    "name" : "TimeLabel_Copy_8"
-                  },
-                  {
-                    "maskFrame" : null,
-                    "id" : "387FB6EB-782F-486F-A86A-071A261B2A6E",
-                    "visible" : true,
-                    "children" : [
-
-                    ],
-                    "image" : {
-                      "path" : "images\/Layer-TimeLabel_Copy_7-387FB6EB-782F-486F-A86A-071A261B2A6E.png",
-                      "frame" : {
-                        "y" : -1025,
-                        "x" : 316,
-                        "width" : 247,
-                        "height" : 11
-                      }
-                    },
-                    "imageType" : "png",
-                    "layerFrame" : {
-                      "y" : -1025,
-                      "x" : 316,
-                      "width" : 247,
-                      "height" : 11
-                    },
-                    "name" : "TimeLabel_Copy_7"
-                  },
-                  {
-                    "maskFrame" : null,
-                    "id" : "62105B4A-0AD2-4553-878D-D2B3DD3F1829",
-                    "visible" : true,
-                    "children" : [
-
-                    ],
-                    "image" : {
-                      "path" : "images\/Layer-TimeLabel_Copy_6-62105B4A-0AD2-4553-878D-D2B3DD3F1829.png",
-                      "frame" : {
-                        "y" : -1075,
-                        "x" : 316,
-                        "width" : 247,
-                        "height" : 12
-                      }
-                    },
-                    "imageType" : "png",
-                    "layerFrame" : {
-                      "y" : -1075,
-                      "x" : 316,
-                      "width" : 247,
-                      "height" : 12
-                    },
-                    "name" : "TimeLabel_Copy_6"
-                  },
-                  {
-                    "maskFrame" : null,
-                    "id" : "63770881-2A6A-42DD-AA33-9A28B770FF4D",
-                    "visible" : true,
-                    "children" : [
-
-                    ],
-                    "image" : {
-                      "path" : "images\/Layer-TimeLabel_Copy_5-63770881-2A6A-42DD-AA33-9A28B770FF4D.png",
-                      "frame" : {
-                        "y" : -1125,
-                        "x" : 316,
-                        "width" : 247,
-                        "height" : 11
-                      }
-                    },
-                    "imageType" : "png",
-                    "layerFrame" : {
-                      "y" : -1125,
-                      "x" : 316,
-                      "width" : 247,
-                      "height" : 11
-                    },
-                    "name" : "TimeLabel_Copy_5"
-                  },
-                  {
-                    "maskFrame" : null,
-                    "id" : "67ABF7FC-1284-4EA2-8F78-515CD60672DA",
-                    "visible" : true,
-                    "children" : [
-
-                    ],
-                    "image" : {
-                      "path" : "images\/Layer-TimeLabel_Copy_4-67ABF7FC-1284-4EA2-8F78-515CD60672DA.png",
-                      "frame" : {
-                        "y" : -1175,
-                        "x" : 317,
-                        "width" : 246,
-                        "height" : 11
-                      }
-                    },
-                    "imageType" : "png",
-                    "layerFrame" : {
-                      "y" : -1175,
-                      "x" : 317,
-                      "width" : 246,
-                      "height" : 11
-                    },
-                    "name" : "TimeLabel_Copy_4"
-                  },
-                  {
-                    "maskFrame" : null,
-                    "id" : "D0255A71-890C-4113-9691-AD47082DBE57",
-                    "visible" : true,
-                    "children" : [
-
-                    ],
-                    "image" : {
-                      "path" : "images\/Layer-TimeLabel_Copy_2-D0255A71-890C-4113-9691-AD47082DBE57.png",
-                      "frame" : {
-                        "y" : -1225,
-                        "x" : 315,
-                        "width" : 248,
-                        "height" : 12
-                      }
-                    },
-                    "imageType" : "png",
-                    "layerFrame" : {
-                      "y" : -1225,
-                      "x" : 315,
-                      "width" : 248,
-                      "height" : 12
-                    },
-                    "name" : "TimeLabel_Copy_2"
-                  },
-                  {
-                    "maskFrame" : null,
-                    "id" : "69766821-2D9B-4EA3-8D89-05890D78D1DA",
-                    "visible" : true,
-                    "children" : [
-
-                    ],
-                    "image" : {
-                      "path" : "images\/Layer-TimeLabel_Copy-69766821-2D9B-4EA3-8D89-05890D78D1DA.png",
-                      "frame" : {
-                        "y" : -1275,
-                        "x" : 309,
-                        "width" : 254,
-                        "height" : 11
-                      }
-                    },
-                    "imageType" : "png",
-                    "layerFrame" : {
-                      "y" : -1275,
-                      "x" : 309,
-                      "width" : 254,
-                      "height" : 11
-                    },
-                    "name" : "TimeLabel_Copy"
-                  },
-                  {
-                    "maskFrame" : null,
-                    "id" : "B21BA3F0-8A34-469F-8EE8-BD6CD4A099CE",
-                    "visible" : true,
-                    "children" : [
-
-                    ],
-                    "image" : {
-                      "path" : "images\/Layer-TimeLabel_Copy_18-B21BA3F0-8A34-469F-8EE8-BD6CD4A099CE.png",
-                      "frame" : {
-                        "y" : -1675,
-                        "x" : 316,
-                        "width" : 247,
-                        "height" : 12
-                      }
-                    },
-                    "imageType" : "png",
-                    "layerFrame" : {
-                      "y" : -1675,
-                      "x" : 316,
-                      "width" : 247,
-                      "height" : 12
-                    },
-                    "name" : "TimeLabel_Copy_18"
-                  },
-                  {
-                    "maskFrame" : null,
-                    "id" : "0E89EEFB-C9A4-4799-A32D-D7F622E599C5",
-                    "visible" : true,
-                    "children" : [
-
-                    ],
-                    "image" : {
-                      "path" : "images\/Layer-TimeLabel_Copy_17-0E89EEFB-C9A4-4799-A32D-D7F622E599C5.png",
-                      "frame" : {
-                        "y" : -1625,
-                        "x" : 316,
-                        "width" : 247,
-                        "height" : 11
-                      }
-                    },
-                    "imageType" : "png",
-                    "layerFrame" : {
-                      "y" : -1625,
-                      "x" : 316,
-                      "width" : 247,
-                      "height" : 11
-                    },
-                    "name" : "TimeLabel_Copy_17"
-                  },
-                  {
-                    "maskFrame" : null,
-                    "id" : "1973D290-D14D-4F16-9275-55E5799D6748",
-                    "visible" : true,
-                    "children" : [
-
-                    ],
-                    "image" : {
-                      "path" : "images\/Layer-TimeLabel_Copy_16-1973D290-D14D-4F16-9275-55E5799D6748.png",
-                      "frame" : {
-                        "y" : -1575,
-                        "x" : 316,
-                        "width" : 247,
-                        "height" : 12
-                      }
-                    },
-                    "imageType" : "png",
-                    "layerFrame" : {
-                      "y" : -1575,
-                      "x" : 316,
-                      "width" : 247,
-                      "height" : 12
-                    },
-                    "name" : "TimeLabel_Copy_16"
-                  },
-                  {
-                    "maskFrame" : null,
-                    "id" : "28D8BFA4-C1C9-4CC5-8BB2-E658202FD59A",
-                    "visible" : true,
-                    "children" : [
-
-                    ],
-                    "image" : {
-                      "path" : "images\/Layer-TimeLabel_Copy_15-28D8BFA4-C1C9-4CC5-8BB2-E658202FD59A.png",
-                      "frame" : {
-                        "y" : -1525,
-                        "x" : 316,
-                        "width" : 247,
-                        "height" : 12
-                      }
-                    },
-                    "imageType" : "png",
-                    "layerFrame" : {
-                      "y" : -1525,
-                      "x" : 316,
-                      "width" : 247,
-                      "height" : 12
-                    },
-                    "name" : "TimeLabel_Copy_15"
-                  },
-                  {
-                    "maskFrame" : null,
-                    "id" : "F16A74AA-973B-409F-A79D-15C4226E1D94",
-                    "visible" : true,
-                    "children" : [
-
-                    ],
-                    "image" : {
-                      "path" : "images\/Layer-TimeLabel_Copy_14-F16A74AA-973B-409F-A79D-15C4226E1D94.png",
-                      "frame" : {
-                        "y" : -1475,
-                        "x" : 316,
-                        "width" : 247,
-                        "height" : 11
-                      }
-                    },
-                    "imageType" : "png",
-                    "layerFrame" : {
-                      "y" : -1475,
-                      "x" : 316,
-                      "width" : 247,
-                      "height" : 11
-                    },
-                    "name" : "TimeLabel_Copy_14"
-                  },
-                  {
-                    "maskFrame" : null,
-                    "id" : "DF7E0BB5-E9D0-4F0F-B105-1C7D8D1E30FC",
-                    "visible" : true,
-                    "children" : [
-
-                    ],
-                    "image" : {
-                      "path" : "images\/Layer-TimeLabel_Copy_13-DF7E0BB5-E9D0-4F0F-B105-1C7D8D1E30FC.png",
-                      "frame" : {
-                        "y" : -1425,
-                        "x" : 316,
-                        "width" : 247,
-                        "height" : 12
-                      }
-                    },
-                    "imageType" : "png",
-                    "layerFrame" : {
-                      "y" : -1425,
-                      "x" : 316,
-                      "width" : 247,
-                      "height" : 12
-                    },
-                    "name" : "TimeLabel_Copy_13"
-                  },
-                  {
-                    "maskFrame" : null,
-                    "id" : "81C43258-1943-47B4-A353-D9AF42E0997A",
-                    "visible" : true,
-                    "children" : [
-
-                    ],
-                    "image" : {
-                      "path" : "images\/Layer-TimeLabel_Copy_12-81C43258-1943-47B4-A353-D9AF42E0997A.png",
-                      "frame" : {
-                        "y" : -1375,
-                        "x" : 316,
-                        "width" : 247,
-                        "height" : 12
-                      }
-                    },
-                    "imageType" : "png",
-                    "layerFrame" : {
-                      "y" : -1375,
-                      "x" : 316,
-                      "width" : 247,
-                      "height" : 12
-                    },
-                    "name" : "TimeLabel_Copy_12"
-                  },
-                  {
-                    "maskFrame" : null,
-                    "id" : "0E6495E7-C4FC-44FF-99CE-2C323B9C135A",
-                    "visible" : true,
-                    "children" : [
-
-                    ],
-                    "image" : {
-                      "path" : "images\/Layer-TimeLabel-0E6495E7-C4FC-44FF-99CE-2C323B9C135A.png",
-                      "frame" : {
-                        "y" : -1325,
-                        "x" : 309,
-                        "width" : 254,
-                        "height" : 12
-                      }
-                    },
-                    "imageType" : "png",
-                    "layerFrame" : {
-                      "y" : -1325,
-                      "x" : 309,
-                      "width" : 254,
-                      "height" : 12
-                    },
-                    "name" : "TimeLabel"
+                    "name" : "TextField"
                   }
                 ],
-                "id" : "EC246F98-4420-4009-90EA-49E5A7A95B7E",
+                "id" : "04B14482-96C1-42FF-AFD4-F13FBF93F552",
                 "visible" : true,
                 "imageType" : "png",
                 "layerFrame" : {
-                  "y" : -1675,
-                  "x" : 309,
-                  "width" : 254,
-                  "height" : 862
+                  "y" : -1332,
+                  "x" : 325,
+                  "width" : 321,
+                  "height" : 31
                 },
-                "name" : "TimeLabels"
+                "name" : "LocationTextField"
+              },
+              {
+                "maskFrame" : null,
+                "children" : [
+                  {
+                    "maskFrame" : null,
+                    "id" : "E6BCA2D4-3DC5-4E6B-A4C9-E876BD1551FC",
+                    "visible" : true,
+                    "children" : [
+
+                    ],
+                    "image" : {
+                      "path" : "images\/Layer-TextField-E6BCA2D4-3DC5-4E6B-A4C9-E876BD1551FC.png",
+                      "frame" : {
+                        "y" : -1251,
+                        "x" : 331,
+                        "width" : 321,
+                        "height" : 31
+                      }
+                    },
+                    "imageType" : "png",
+                    "layerFrame" : {
+                      "y" : -1251,
+                      "x" : 331,
+                      "width" : 321,
+                      "height" : 31
+                    },
+                    "name" : "TextField"
+                  }
+                ],
+                "id" : "C939E305-3A6F-4DEA-B74E-3B16629BAE3D",
+                "visible" : true,
+                "imageType" : "png",
+                "layerFrame" : {
+                  "y" : -1251,
+                  "x" : 331,
+                  "width" : 321,
+                  "height" : 31
+                },
+                "name" : "TitleTextField"
+              },
+              {
+                "maskFrame" : null,
+                "children" : [
+                  {
+                    "maskFrame" : null,
+                    "id" : "AAF1934F-685B-4587-A317-AB31056F06C1",
+                    "visible" : true,
+                    "children" : [
+
+                    ],
+                    "image" : {
+                      "path" : "images\/Layer-TextField-AAF1934F-685B-4587-A317-AB31056F06C1.png",
+                      "frame" : {
+                        "y" : -1170,
+                        "x" : 325,
+                        "width" : 321,
+                        "height" : 31
+                      }
+                    },
+                    "imageType" : "png",
+                    "layerFrame" : {
+                      "y" : -1170,
+                      "x" : 325,
+                      "width" : 321,
+                      "height" : 31
+                    },
+                    "name" : "TextField"
+                  }
+                ],
+                "id" : "9BBBBC77-2E2B-407A-8029-55C8D138778E",
+                "visible" : true,
+                "imageType" : "png",
+                "layerFrame" : {
+                  "y" : -1170,
+                  "x" : 325,
+                  "width" : 321,
+                  "height" : 31
+                },
+                "name" : "MessageTextField"
+              },
+              {
+                "maskFrame" : null,
+                "id" : "DF1E8107-656E-4C42-AEE4-3283AC1F955A",
+                "visible" : true,
+                "children" : [
+
+                ],
+                "image" : {
+                  "path" : "images\/Layer-EventSummary-DF1E8107-656E-4C42-AEE4-3283AC1F955A.png",
+                  "frame" : {
+                    "y" : -1095,
+                    "x" : 319,
+                    "width" : 334,
+                    "height" : 61
+                  }
+                },
+                "imageType" : "png",
+                "layerFrame" : {
+                  "y" : -1095,
+                  "x" : 319,
+                  "width" : 334,
+                  "height" : 61
+                },
+                "name" : "EventSummary"
+              },
+              {
+                "maskFrame" : null,
+                "id" : "A644C02E-8F45-465F-A184-A718796ED5D4",
+                "visible" : true,
+                "children" : [
+
+                ],
+                "image" : {
+                  "path" : "images\/Layer-EventSummary-A644C02E-8F45-465F-A184-A718796ED5D4.png",
+                  "frame" : {
+                    "y" : -994,
+                    "x" : 317,
+                    "width" : 336,
+                    "height" : 60
+                  }
+                },
+                "imageType" : "png",
+                "layerFrame" : {
+                  "y" : -994,
+                  "x" : 317,
+                  "width" : 336,
+                  "height" : 60
+                },
+                "name" : "EventSummary"
+              },
+              {
+                "maskFrame" : null,
+                "id" : "F4401EBA-5EB2-4E90-B5B3-796A6C669FAF",
+                "visible" : true,
+                "children" : [
+
+                ],
+                "image" : {
+                  "path" : "images\/Layer-SendEventInvite-F4401EBA-5EB2-4E90-B5B3-796A6C669FAF.png",
+                  "frame" : {
+                    "y" : -892,
+                    "x" : 298,
+                    "width" : 375,
+                    "height" : 50
+                  }
+                },
+                "imageType" : "png",
+                "layerFrame" : {
+                  "y" : -892,
+                  "x" : 298,
+                  "width" : 375,
+                  "height" : 50
+                },
+                "name" : "SendEventInvite"
               }
             ],
+            "id" : "EAFD716F-2F26-451F-9E99-BC820410D4DD",
+            "visible" : true,
+            "imageType" : "png",
+            "layerFrame" : {
+              "y" : -1401,
+              "x" : 298,
+              "width" : 375,
+              "height" : 559
+            },
+            "name" : "CreateEventInviteForm"
+          },
+          {
+            "maskFrame" : null,
+            "id" : "CC5FFA5C-3D28-4601-A89F-5F25D14E5FE3",
+            "visible" : true,
+            "children" : [
+
+            ],
             "image" : {
-              "path" : "images\/Layer-CalendarDayView-75C57E8B-4579-4C2F-9D58-DA0ED0908496.png",
+              "path" : "images\/Layer-OverlayBackground-CC5FFA5C-3D28-4601-A89F-5F25D14E5FE3.png",
               "frame" : {
-                "y" : -1675,
+                "y" : -1509,
                 "x" : 298,
-                "width" : 265,
-                "height" : 862
+                "width" : 375,
+                "height" : 667
               }
             },
             "imageType" : "png",
             "layerFrame" : {
-              "y" : -1675,
+              "y" : -1509,
               "x" : 298,
-              "width" : 265,
-              "height" : 862
+              "width" : 375,
+              "height" : 667
             },
-            "name" : "CalendarDayView"
+            "name" : "OverlayBackground"
           }
         ],
-        "id" : "2365CA1A-776F-4EE1-83E8-C94F78144015",
+        "id" : "DBC126DC-C5CB-4ED0-9A0A-31A1EF5DBFA9",
         "visible" : true,
         "imageType" : "png",
         "layerFrame" : {
@@ -627,316 +976,7 @@ window.__imported__["synq-simple/layers.json.js"] = [
           "width" : 375,
           "height" : 862
         },
-        "name" : "MutualAvailabilityView"
-      },
-      {
-        "maskFrame" : null,
-        "children" : [
-          {
-            "maskFrame" : null,
-            "id" : "9C79256A-3B59-4D07-9A59-42F6BBF0EE29",
-            "visible" : true,
-            "children" : [
-              {
-                "maskFrame" : null,
-                "id" : "4872C0ED-24E0-4768-9248-AD9169C73CA4",
-                "visible" : true,
-                "children" : [
-
-                ],
-                "image" : {
-                  "path" : "images\/Layer-NoButton-4872C0ED-24E0-4768-9248-AD9169C73CA4.png",
-                  "frame" : {
-                    "y" : -1104,
-                    "x" : 325,
-                    "width" : 159,
-                    "height" : 35
-                  }
-                },
-                "imageType" : "png",
-                "layerFrame" : {
-                  "y" : -1104,
-                  "x" : 325,
-                  "width" : 159,
-                  "height" : 35
-                },
-                "name" : "NoButton"
-              },
-              {
-                "maskFrame" : null,
-                "id" : "8E152E24-EFF5-4732-8043-195DD07D9760",
-                "visible" : true,
-                "children" : [
-
-                ],
-                "image" : {
-                  "path" : "images\/Layer-YesButton-8E152E24-EFF5-4732-8043-195DD07D9760.png",
-                  "frame" : {
-                    "y" : -1104,
-                    "x" : 483,
-                    "width" : 158,
-                    "height" : 35
-                  }
-                },
-                "imageType" : "png",
-                "layerFrame" : {
-                  "y" : -1104,
-                  "x" : 483,
-                  "width" : 158,
-                  "height" : 35
-                },
-                "name" : "YesButton"
-              }
-            ],
-            "image" : {
-              "path" : "images\/Layer-SendEventInviteConfirm-9C79256A-3B59-4D07-9A59-42F6BBF0EE29.png",
-              "frame" : {
-                "y" : -1295,
-                "x" : 325,
-                "width" : 316,
-                "height" : 226
-              }
-            },
-            "imageType" : "png",
-            "layerFrame" : {
-              "y" : -1295,
-              "x" : 325,
-              "width" : 316,
-              "height" : 226
-            },
-            "name" : "SendEventInviteConfirm"
-          },
-          {
-            "maskFrame" : null,
-            "id" : "E8CF9288-8C5E-4BDE-BDF5-E7DBC440F8F1",
-            "visible" : true,
-            "children" : [
-
-            ],
-            "image" : {
-              "path" : "images\/Layer-Time-E8CF9288-8C5E-4BDE-BDF5-E7DBC440F8F1.png",
-              "frame" : {
-                "y" : -1401,
-                "x" : 325,
-                "width" : 213,
-                "height" : 40
-              }
-            },
-            "imageType" : "png",
-            "layerFrame" : {
-              "y" : -1401,
-              "x" : 325,
-              "width" : 213,
-              "height" : 40
-            },
-            "name" : "Time"
-          },
-          {
-            "maskFrame" : null,
-            "children" : [
-              {
-                "maskFrame" : null,
-                "id" : "B8004A6C-BF48-40BB-8206-05160FA8B35F",
-                "visible" : true,
-                "children" : [
-
-                ],
-                "image" : {
-                  "path" : "images\/Layer-TextField-B8004A6C-BF48-40BB-8206-05160FA8B35F.png",
-                  "frame" : {
-                    "y" : -1332,
-                    "x" : 325,
-                    "width" : 321,
-                    "height" : 31
-                  }
-                },
-                "imageType" : "png",
-                "layerFrame" : {
-                  "y" : -1332,
-                  "x" : 325,
-                  "width" : 321,
-                  "height" : 31
-                },
-                "name" : "TextField"
-              }
-            ],
-            "id" : "04B14482-96C1-42FF-AFD4-F13FBF93F552",
-            "visible" : true,
-            "imageType" : "png",
-            "layerFrame" : {
-              "y" : -1332,
-              "x" : 325,
-              "width" : 321,
-              "height" : 31
-            },
-            "name" : "LocationTextField"
-          },
-          {
-            "maskFrame" : null,
-            "children" : [
-              {
-                "maskFrame" : null,
-                "id" : "E6BCA2D4-3DC5-4E6B-A4C9-E876BD1551FC",
-                "visible" : true,
-                "children" : [
-
-                ],
-                "image" : {
-                  "path" : "images\/Layer-TextField-E6BCA2D4-3DC5-4E6B-A4C9-E876BD1551FC.png",
-                  "frame" : {
-                    "y" : -1251,
-                    "x" : 325,
-                    "width" : 321,
-                    "height" : 31
-                  }
-                },
-                "imageType" : "png",
-                "layerFrame" : {
-                  "y" : -1251,
-                  "x" : 325,
-                  "width" : 321,
-                  "height" : 31
-                },
-                "name" : "TextField"
-              }
-            ],
-            "id" : "C939E305-3A6F-4DEA-B74E-3B16629BAE3D",
-            "visible" : true,
-            "imageType" : "png",
-            "layerFrame" : {
-              "y" : -1251,
-              "x" : 325,
-              "width" : 321,
-              "height" : 31
-            },
-            "name" : "TitleTextField"
-          },
-          {
-            "maskFrame" : null,
-            "children" : [
-              {
-                "maskFrame" : null,
-                "id" : "AAF1934F-685B-4587-A317-AB31056F06C1",
-                "visible" : true,
-                "children" : [
-
-                ],
-                "image" : {
-                  "path" : "images\/Layer-TextField-AAF1934F-685B-4587-A317-AB31056F06C1.png",
-                  "frame" : {
-                    "y" : -1170,
-                    "x" : 325,
-                    "width" : 321,
-                    "height" : 40
-                  }
-                },
-                "imageType" : "png",
-                "layerFrame" : {
-                  "y" : -1170,
-                  "x" : 325,
-                  "width" : 321,
-                  "height" : 40
-                },
-                "name" : "TextField"
-              }
-            ],
-            "id" : "9BBBBC77-2E2B-407A-8029-55C8D138778E",
-            "visible" : true,
-            "imageType" : "png",
-            "layerFrame" : {
-              "y" : -1170,
-              "x" : 325,
-              "width" : 321,
-              "height" : 40
-            },
-            "name" : "MessageTextField"
-          },
-          {
-            "maskFrame" : null,
-            "id" : "DF1E8107-656E-4C42-AEE4-3283AC1F955A",
-            "visible" : true,
-            "children" : [
-
-            ],
-            "image" : {
-              "path" : "images\/Layer-EventSummary-DF1E8107-656E-4C42-AEE4-3283AC1F955A.png",
-              "frame" : {
-                "y" : -1095,
-                "x" : 319,
-                "width" : 334,
-                "height" : 61
-              }
-            },
-            "imageType" : "png",
-            "layerFrame" : {
-              "y" : -1095,
-              "x" : 319,
-              "width" : 334,
-              "height" : 61
-            },
-            "name" : "EventSummary"
-          },
-          {
-            "maskFrame" : null,
-            "id" : "A644C02E-8F45-465F-A184-A718796ED5D4",
-            "visible" : true,
-            "children" : [
-
-            ],
-            "image" : {
-              "path" : "images\/Layer-EventSummary-A644C02E-8F45-465F-A184-A718796ED5D4.png",
-              "frame" : {
-                "y" : -994,
-                "x" : 317,
-                "width" : 336,
-                "height" : 60
-              }
-            },
-            "imageType" : "png",
-            "layerFrame" : {
-              "y" : -994,
-              "x" : 317,
-              "width" : 336,
-              "height" : 60
-            },
-            "name" : "EventSummary"
-          },
-          {
-            "maskFrame" : null,
-            "id" : "F4401EBA-5EB2-4E90-B5B3-796A6C669FAF",
-            "visible" : true,
-            "children" : [
-
-            ],
-            "image" : {
-              "path" : "images\/Layer-SendEventInvite-F4401EBA-5EB2-4E90-B5B3-796A6C669FAF.png",
-              "frame" : {
-                "y" : -892,
-                "x" : 298,
-                "width" : 375,
-                "height" : 50
-              }
-            },
-            "imageType" : "png",
-            "layerFrame" : {
-              "y" : -892,
-              "x" : 298,
-              "width" : 375,
-              "height" : 50
-            },
-            "name" : "SendEventInvite"
-          }
-        ],
-        "id" : "EAFD716F-2F26-451F-9E99-BC820410D4DD",
-        "visible" : true,
-        "imageType" : "png",
-        "layerFrame" : {
-          "y" : -1401,
-          "x" : 298,
-          "width" : 375,
-          "height" : 559
-        },
-        "name" : "CreateEventInviteForm"
+        "name" : "CreateEventOverlay"
       },
       {
         "maskFrame" : null,
