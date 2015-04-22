@@ -71,13 +71,13 @@ window.__imported__["synq-simple/layers.json.js"] = [
                 "children" : [
                   {
                     "maskFrame" : null,
-                    "id" : "6372DA51-BB64-45B7-9DE5-849ED8D27F1B",
+                    "id" : "E95DED2F-A590-4B2C-BC2B-4AF330995990",
                     "visible" : true,
                     "children" : [
 
                     ],
                     "image" : {
-                      "path" : "images\/Layer-DateTimeSuggestion-6372DA51-BB64-45B7-9DE5-849ED8D27F1B.png",
+                      "path" : "images\/Layer-DateTimeSuggestion1-E95DED2F-A590-4B2C-BC2B-4AF330995990.png",
                       "frame" : {
                         "y" : -1445,
                         "x" : 563,
@@ -92,7 +92,82 @@ window.__imported__["synq-simple/layers.json.js"] = [
                       "width" : 110,
                       "height" : 151
                     },
-                    "name" : "DateTimeSuggestion"
+                    "name" : "DateTimeSuggestion1"
+                  },
+                  {
+                    "maskFrame" : null,
+                    "id" : "6372DA51-BB64-45B7-9DE5-849ED8D27F1B",
+                    "visible" : true,
+                    "children" : [
+
+                    ],
+                    "image" : {
+                      "path" : "images\/Layer-DateTimeSuggestion4-6372DA51-BB64-45B7-9DE5-849ED8D27F1B.png",
+                      "frame" : {
+                        "y" : -992,
+                        "x" : 564,
+                        "width" : 110,
+                        "height" : 151
+                      }
+                    },
+                    "imageType" : "png",
+                    "layerFrame" : {
+                      "y" : -992,
+                      "x" : 564,
+                      "width" : 110,
+                      "height" : 151
+                    },
+                    "name" : "DateTimeSuggestion4"
+                  },
+                  {
+                    "maskFrame" : null,
+                    "id" : "380ACE63-7F86-499B-ADD2-263B1D53970E",
+                    "visible" : true,
+                    "children" : [
+
+                    ],
+                    "image" : {
+                      "path" : "images\/Layer-DateTimeSuggestion3-380ACE63-7F86-499B-ADD2-263B1D53970E.png",
+                      "frame" : {
+                        "y" : -1143,
+                        "x" : 563,
+                        "width" : 110,
+                        "height" : 151
+                      }
+                    },
+                    "imageType" : "png",
+                    "layerFrame" : {
+                      "y" : -1143,
+                      "x" : 563,
+                      "width" : 110,
+                      "height" : 151
+                    },
+                    "name" : "DateTimeSuggestion3"
+                  },
+                  {
+                    "maskFrame" : null,
+                    "id" : "C07245C9-3309-43B4-8617-E53C5EBE79D2",
+                    "visible" : true,
+                    "children" : [
+
+                    ],
+                    "image" : {
+                      "path" : "images\/Layer-DateTimeSuggestion2-C07245C9-3309-43B4-8617-E53C5EBE79D2.png",
+                      "frame" : {
+                        "y" : -1294,
+                        "x" : 563,
+                        "width" : 110,
+                        "height" : 151
+                      }
+                    },
+                    "imageType" : "png",
+                    "layerFrame" : {
+                      "y" : -1294,
+                      "x" : 563,
+                      "width" : 110,
+                      "height" : 151
+                    },
+                    "name" : "DateTimeSuggestion2"
                   }
                 ],
                 "id" : "726CCE92-CCF0-454D-9094-9361DBC426CA",
@@ -101,8 +176,8 @@ window.__imported__["synq-simple/layers.json.js"] = [
                 "layerFrame" : {
                   "y" : -1445,
                   "x" : 563,
-                  "width" : 110,
-                  "height" : 151
+                  "width" : 111,
+                  "height" : 604
                 },
                 "name" : "DateTimeSuggestions"
               },
@@ -627,7 +702,7 @@ window.__imported__["synq-simple/layers.json.js"] = [
             "layerFrame" : {
               "y" : -1675,
               "x" : 298,
-              "width" : 375,
+              "width" : 376,
               "height" : 862
             },
             "name" : "MutualAvailabilityView"
@@ -650,18 +725,18 @@ window.__imported__["synq-simple/layers.json.js"] = [
                     "image" : {
                       "path" : "images\/Layer-NoButton-4872C0ED-24E0-4768-9248-AD9169C73CA4.png",
                       "frame" : {
-                        "y" : -1104,
-                        "x" : 325,
-                        "width" : 159,
-                        "height" : 35
+                        "y" : -1204,
+                        "x" : 225,
+                        "width" : 359,
+                        "height" : 235
                       }
                     },
                     "imageType" : "png",
                     "layerFrame" : {
-                      "y" : -1104,
-                      "x" : 325,
-                      "width" : 159,
-                      "height" : 35
+                      "y" : -1204,
+                      "x" : 225,
+                      "width" : 359,
+                      "height" : 235
                     },
                     "name" : "NoButton"
                   },
@@ -675,18 +750,18 @@ window.__imported__["synq-simple/layers.json.js"] = [
                     "image" : {
                       "path" : "images\/Layer-YesButton-8E152E24-EFF5-4732-8043-195DD07D9760.png",
                       "frame" : {
-                        "y" : -1104,
-                        "x" : 483,
-                        "width" : 158,
-                        "height" : 35
+                        "y" : -1204,
+                        "x" : 382,
+                        "width" : 359,
+                        "height" : 235
                       }
                     },
                     "imageType" : "png",
                     "layerFrame" : {
-                      "y" : -1104,
-                      "x" : 483,
-                      "width" : 158,
-                      "height" : 35
+                      "y" : -1204,
+                      "x" : 382,
+                      "width" : 359,
+                      "height" : 235
                     },
                     "name" : "YesButton"
                   }
@@ -694,18 +769,18 @@ window.__imported__["synq-simple/layers.json.js"] = [
                 "image" : {
                   "path" : "images\/Layer-SendEventInviteConfirm-9C79256A-3B59-4D07-9A59-42F6BBF0EE29.png",
                   "frame" : {
-                    "y" : -1295,
-                    "x" : 325,
-                    "width" : 316,
-                    "height" : 226
+                    "y" : -1395,
+                    "x" : 224,
+                    "width" : 517,
+                    "height" : 426
                   }
                 },
                 "imageType" : "png",
                 "layerFrame" : {
-                  "y" : -1295,
-                  "x" : 325,
-                  "width" : 316,
-                  "height" : 226
+                  "y" : -1395,
+                  "x" : 224,
+                  "width" : 517,
+                  "height" : 426
                 },
                 "name" : "SendEventInviteConfirm"
               },
@@ -719,18 +794,18 @@ window.__imported__["synq-simple/layers.json.js"] = [
                 "image" : {
                   "path" : "images\/Layer-Time-E8CF9288-8C5E-4BDE-BDF5-E7DBC440F8F1.png",
                   "frame" : {
-                    "y" : -1401,
-                    "x" : 325,
-                    "width" : 213,
-                    "height" : 40
+                    "y" : -1506,
+                    "x" : 225,
+                    "width" : 456,
+                    "height" : 225
                   }
                 },
                 "imageType" : "png",
                 "layerFrame" : {
-                  "y" : -1401,
-                  "x" : 325,
-                  "width" : 213,
-                  "height" : 40
+                  "y" : -1506,
+                  "x" : 225,
+                  "width" : 456,
+                  "height" : 225
                 },
                 "name" : "Time"
               },
@@ -747,18 +822,18 @@ window.__imported__["synq-simple/layers.json.js"] = [
                     "image" : {
                       "path" : "images\/Layer-TextField-B8004A6C-BF48-40BB-8206-05160FA8B35F.png",
                       "frame" : {
-                        "y" : -1332,
-                        "x" : 325,
-                        "width" : 321,
-                        "height" : 31
+                        "y" : -1432,
+                        "x" : 225,
+                        "width" : 521,
+                        "height" : 232
                       }
                     },
                     "imageType" : "png",
                     "layerFrame" : {
-                      "y" : -1332,
-                      "x" : 325,
-                      "width" : 321,
-                      "height" : 31
+                      "y" : -1432,
+                      "x" : 225,
+                      "width" : 521,
+                      "height" : 232
                     },
                     "name" : "TextField"
                   }
@@ -767,10 +842,10 @@ window.__imported__["synq-simple/layers.json.js"] = [
                 "visible" : true,
                 "imageType" : "png",
                 "layerFrame" : {
-                  "y" : -1332,
-                  "x" : 325,
-                  "width" : 321,
-                  "height" : 31
+                  "y" : -1432,
+                  "x" : 225,
+                  "width" : 521,
+                  "height" : 232
                 },
                 "name" : "LocationTextField"
               },
@@ -787,18 +862,18 @@ window.__imported__["synq-simple/layers.json.js"] = [
                     "image" : {
                       "path" : "images\/Layer-TextField-E6BCA2D4-3DC5-4E6B-A4C9-E876BD1551FC.png",
                       "frame" : {
-                        "y" : -1251,
-                        "x" : 331,
-                        "width" : 321,
-                        "height" : 31
+                        "y" : -1351,
+                        "x" : 231,
+                        "width" : 521,
+                        "height" : 232
                       }
                     },
                     "imageType" : "png",
                     "layerFrame" : {
-                      "y" : -1251,
-                      "x" : 331,
-                      "width" : 321,
-                      "height" : 31
+                      "y" : -1351,
+                      "x" : 231,
+                      "width" : 521,
+                      "height" : 232
                     },
                     "name" : "TextField"
                   }
@@ -807,10 +882,10 @@ window.__imported__["synq-simple/layers.json.js"] = [
                 "visible" : true,
                 "imageType" : "png",
                 "layerFrame" : {
-                  "y" : -1251,
-                  "x" : 331,
-                  "width" : 321,
-                  "height" : 31
+                  "y" : -1351,
+                  "x" : 231,
+                  "width" : 521,
+                  "height" : 232
                 },
                 "name" : "TitleTextField"
               },
@@ -827,18 +902,18 @@ window.__imported__["synq-simple/layers.json.js"] = [
                     "image" : {
                       "path" : "images\/Layer-TextField-AAF1934F-685B-4587-A317-AB31056F06C1.png",
                       "frame" : {
-                        "y" : -1170,
-                        "x" : 325,
-                        "width" : 321,
-                        "height" : 31
+                        "y" : -1270,
+                        "x" : 225,
+                        "width" : 521,
+                        "height" : 232
                       }
                     },
                     "imageType" : "png",
                     "layerFrame" : {
-                      "y" : -1170,
-                      "x" : 325,
-                      "width" : 321,
-                      "height" : 31
+                      "y" : -1270,
+                      "x" : 225,
+                      "width" : 521,
+                      "height" : 232
                     },
                     "name" : "TextField"
                   }
@@ -847,10 +922,10 @@ window.__imported__["synq-simple/layers.json.js"] = [
                 "visible" : true,
                 "imageType" : "png",
                 "layerFrame" : {
-                  "y" : -1170,
-                  "x" : 325,
-                  "width" : 321,
-                  "height" : 31
+                  "y" : -1270,
+                  "x" : 225,
+                  "width" : 521,
+                  "height" : 232
                 },
                 "name" : "MessageTextField"
               },
@@ -864,18 +939,18 @@ window.__imported__["synq-simple/layers.json.js"] = [
                 "image" : {
                   "path" : "images\/Layer-EventSummary-DF1E8107-656E-4C42-AEE4-3283AC1F955A.png",
                   "frame" : {
-                    "y" : -1095,
-                    "x" : 319,
-                    "width" : 334,
-                    "height" : 61
+                    "y" : -1216,
+                    "x" : 198,
+                    "width" : 575,
+                    "height" : 301
                   }
                 },
                 "imageType" : "png",
                 "layerFrame" : {
-                  "y" : -1095,
-                  "x" : 319,
-                  "width" : 334,
-                  "height" : 61
+                  "y" : -1216,
+                  "x" : 198,
+                  "width" : 575,
+                  "height" : 301
                 },
                 "name" : "EventSummary"
               },
@@ -889,18 +964,18 @@ window.__imported__["synq-simple/layers.json.js"] = [
                 "image" : {
                   "path" : "images\/Layer-EventSummary-A644C02E-8F45-465F-A184-A718796ED5D4.png",
                   "frame" : {
-                    "y" : -994,
-                    "x" : 317,
-                    "width" : 336,
-                    "height" : 60
+                    "y" : -1116,
+                    "x" : 198,
+                    "width" : 575,
+                    "height" : 301
                   }
                 },
                 "imageType" : "png",
                 "layerFrame" : {
-                  "y" : -994,
-                  "x" : 317,
-                  "width" : 336,
-                  "height" : 60
+                  "y" : -1116,
+                  "x" : 198,
+                  "width" : 575,
+                  "height" : 301
                 },
                 "name" : "EventSummary"
               },
@@ -914,30 +989,30 @@ window.__imported__["synq-simple/layers.json.js"] = [
                 "image" : {
                   "path" : "images\/Layer-SendEventInvite-F4401EBA-5EB2-4E90-B5B3-796A6C669FAF.png",
                   "frame" : {
-                    "y" : -892,
-                    "x" : 298,
-                    "width" : 375,
-                    "height" : 50
+                    "y" : -992,
+                    "x" : 197,
+                    "width" : 577,
+                    "height" : 250
                   }
                 },
                 "imageType" : "png",
                 "layerFrame" : {
-                  "y" : -892,
-                  "x" : 298,
-                  "width" : 375,
-                  "height" : 50
+                  "y" : -992,
+                  "x" : 197,
+                  "width" : 577,
+                  "height" : 250
                 },
                 "name" : "SendEventInvite"
               }
             ],
             "id" : "EAFD716F-2F26-451F-9E99-BC820410D4DD",
-            "visible" : true,
+            "visible" : false,
             "imageType" : "png",
             "layerFrame" : {
-              "y" : -1401,
-              "x" : 298,
-              "width" : 375,
-              "height" : 559
+              "y" : -1506,
+              "x" : 197,
+              "width" : 577,
+              "height" : 764
             },
             "name" : "CreateEventInviteForm"
           },
@@ -973,7 +1048,7 @@ window.__imported__["synq-simple/layers.json.js"] = [
         "layerFrame" : {
           "y" : -1675,
           "x" : 298,
-          "width" : 375,
+          "width" : 376,
           "height" : 862
         },
         "name" : "CreateEventOverlay"
