@@ -49,7 +49,7 @@ adjustDimensions(mainScreen)
 
 //CalenderIcon Flow
 calendarIcon = new Layer({backgroundColor:"#72ffc6", x: 0, y: 0,
-			  width: 50 * widthFactor, height: 50 * heightFactor})
+			  width: 150 * widthFactor, height: 150 * heightFactor})
 calendarIcon.draggable.enabled = true
 calendarIcon.visible = false
 
