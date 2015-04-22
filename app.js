@@ -25,8 +25,8 @@ inviteForm.backgroundColor = "#FFFFFF"
 mutualAvailability.backgroundColor = "#FFFFFF"
 mutualAvailability.visible = false
 
-widthFactor = window.innerWidth / mainScreen.width
-heightFactor = window.innerHeight / mainScreen.height
+widthFactor = Utils.isMobile() ? window.innerWidth / mainScreen.width : 1.0
+heightFactor = Utils.isMobile() ? window.innerHeight / mainScreen.height : 1.0
 
 // Fix height / width on iphone6
 function adjustDimensions(layer) {
