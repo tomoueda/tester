@@ -9,7 +9,7 @@ overlay = myLayers.CreateEventOverlay
 overlay.visible = false
 
 alphabeticList = myLayers.AlphabeticList
-alphabeticList.scroll = true
+//alphabeticList.scroll = true
 contacts = myLayers.A.subLayers.concat(myLayers.B.subLayers)
 inviteForm = myLayers.CreateEventInviteForm
 inviteFormConfirm = myLayers.SendEventInviteConfirm
