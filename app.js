@@ -79,8 +79,8 @@ for (i = 0; i < contacts.length; i++) {
     contact.on(Events.TouchStart, function (event, layer) {
 	mutualAvailability.visible = true
 	calendarIcon.visible = true
-	calendarIcon.x = event.x
-	calendarIcon.y = event.y
+	calendarIcon.x = event.layerX
+	calendarIcon.y = event.layerY
 	calendarIcon.draggable._touchStart(event)
     }) 
 }
