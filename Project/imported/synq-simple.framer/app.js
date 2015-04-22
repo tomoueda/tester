@@ -24,7 +24,6 @@ inviteFormConfirm.visible = false
 inviteForm.backgroundColor = "#FFFFFF"
 mutualAvailability.backgroundColor = "#FFFFFF"
 mutualAvailability.visible = false
-dragging = false
 
 //CalenderIcon Flow
 calendarIcon = new Layer({backgroundColor:"#72ffc6", x: 0, y: 0,
@@ -51,18 +50,19 @@ calendarIcon.on(Events.DragMove, function name(Events, layer) {
 })
 
 calendarIcon.on(Events.DragEnd, function name(event, layer) {
-    if (dragging) {
+    if (event.x > 266) {
 	mutualAvailability.visible = false
 	calendarIcon.visible = false
 	inviteForm.visible = true
-	dragging = false
+    } else {
+	calendarIcon.visible = false
+	overlay.visible = false
     }
-})
+ })
 
 for (i = 0; i < contacts.length; i++) {
     contact = contacts[i]
     contact.on(Events.TouchStart, function (event, layer) {
-	dragging = true
 	mutualAvailability.visible = true
 	calendarIcon.visible = true
 	calendarIcon.x = event.x
