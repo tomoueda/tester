@@ -1,4 +1,4 @@
-myLayers = Framer.Importer.load("imported/synq-simple")
+myLayers = Framer.Importer.load("imported/synq")
 
 //Initial Clean up
 mainScreen = myLayers.MainScreen
