@@ -98,9 +98,9 @@ function contactInteraction(on) {
     for (i = 0; i < contacts.length; i++) {
         contact = contacts[i]
         if (on) {
-            contact.on(Events.TouchMove, contactTouchStartHandler)
+            contact.on(Events.TouchStart, contactTouchStartHandler)
         } else {
-            contact.on(Events.TouchMove, contactTouchStartHandler)
+            contact.on(Events.TouchStart, contactTouchStartHandler)
         }
     }
 }
