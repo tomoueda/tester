@@ -1,3 +1,4 @@
+
 myLayers = Framer.Importer.load("imported/synq")
 
 screens = myLayers.Screens
@@ -97,9 +98,9 @@ function contactInteraction(on) {
     for (i = 0; i < contacts.length; i++) {
         contact = contacts[i]
         if (on) {
-            contact.on(Events.TouchStart, contactTouchStartHandler)
+            contact.on(Events.TouchMove, contactTouchStartHandler)
         } else {
-            contact.on(Events.TouchStart, contactTouchStartHandler)
+            contact.on(Events.TouchMove, contactTouchStartHandler)
         }
     }
 }
