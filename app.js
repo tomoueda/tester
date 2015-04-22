@@ -16,6 +16,7 @@ overlay.visible = false
 alphabeticList = myLayers.AlphabeticList
 //alphabeticList.scroll = true
 contacts = myLayers.A.subLayers.concat(myLayers.B.subLayers)
+contactInteraction(true)
 inviteForm = myLayers.CreateEventInviteForm
 inviteFormConfirm = myLayers.SendEventInviteConfirm
 mutualAvailability = myLayers.MutualAvailabilityView
@@ -56,6 +57,7 @@ calendarIcon.visible = false
 yesButton.on(Events.Click, function (events, layer) {
     inviteFormConfirm.visible = false
     overlay.visible = false
+    contactInteraction(true)
 })
 
 noButton.on(Events.Click, function (events, layer) {
@@ -73,23 +75,31 @@ calendarIcon.on(Events.DragMove, function name(Events, layer) {
 
 calendarIcon.on(Events.DragEnd, function name(event, layer) {
     if (event.layerX > 530 * widthFactor) {
-	mutualAvailability.visible = false
-	calendarIcon.visible = false
-	inviteForm.visible = true
+        mutualAvailability.visible = false
+        calendarIcon.visible = false
+        inviteForm.visible = true
     } else {
-	calendarIcon.visible = false
-	overlay.visible = false
+        calendarIcon.visible = false
+        overlay.visible = false
     }
  })
 
-for (i = 0; i < contacts.length; i++) {
-    contact = contacts[i]
-    contact.on(Events.TouchStart, function (event, layer) {
-	mutualAvailability.visible = true
-	calendarIcon.visible = true
-	calendarIcon.x = event.layerX
-	calendarIcon.y = event.layerY
-	calendarIcon.draggable._touchStart(event)
-    }) 
+function contactTouchStartHandler(event, layer) {
+    contactInteraction(false)
+    mutualAvailability.visible = true
+    calendarIcon.visible = true
+    calendarIcon.x = event.layerX
+    calendarIcon.y = event.layerY
+    calendarIcon.draggable._touchStart(event)
 }
 
+function contactInteraction(on) {
+    for (i = 0; i < contacts.length; i++) {
+        contact = contacts[i]
+        if (on) {
+            contact.on(Events.TouchStart, contactTouchStartHandler)
+        } else {
+            contact.on(Events.TouchStart, contactTouchStartHandler)
+        }
+    }
+}
