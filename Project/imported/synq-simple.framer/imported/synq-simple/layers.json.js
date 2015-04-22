@@ -725,18 +725,18 @@ window.__imported__["synq-simple/layers.json.js"] = [
                     "image" : {
                       "path" : "images\/Layer-NoButton-4872C0ED-24E0-4768-9248-AD9169C73CA4.png",
                       "frame" : {
-                        "y" : -1204,
-                        "x" : 225,
-                        "width" : 359,
-                        "height" : 235
+                        "y" : -1104,
+                        "x" : 325,
+                        "width" : 159,
+                        "height" : 35
                       }
                     },
                     "imageType" : "png",
                     "layerFrame" : {
-                      "y" : -1204,
-                      "x" : 225,
-                      "width" : 359,
-                      "height" : 235
+                      "y" : -1104,
+                      "x" : 325,
+                      "width" : 159,
+                      "height" : 35
                     },
                     "name" : "NoButton"
                   },
@@ -750,18 +750,18 @@ window.__imported__["synq-simple/layers.json.js"] = [
                     "image" : {
                       "path" : "images\/Layer-YesButton-8E152E24-EFF5-4732-8043-195DD07D9760.png",
                       "frame" : {
-                        "y" : -1204,
-                        "x" : 382,
-                        "width" : 359,
-                        "height" : 235
+                        "y" : -1104,
+                        "x" : 483,
+                        "width" : 158,
+                        "height" : 35
                       }
                     },
                     "imageType" : "png",
                     "layerFrame" : {
-                      "y" : -1204,
-                      "x" : 382,
-                      "width" : 359,
-                      "height" : 235
+                      "y" : -1104,
+                      "x" : 483,
+                      "width" : 158,
+                      "height" : 35
                     },
                     "name" : "YesButton"
                   }
@@ -769,18 +769,18 @@ window.__imported__["synq-simple/layers.json.js"] = [
                 "image" : {
                   "path" : "images\/Layer-SendEventInviteConfirm-9C79256A-3B59-4D07-9A59-42F6BBF0EE29.png",
                   "frame" : {
-                    "y" : -1395,
-                    "x" : 224,
-                    "width" : 517,
-                    "height" : 426
+                    "y" : -1295,
+                    "x" : 325,
+                    "width" : 316,
+                    "height" : 226
                   }
                 },
                 "imageType" : "png",
                 "layerFrame" : {
-                  "y" : -1395,
-                  "x" : 224,
-                  "width" : 517,
-                  "height" : 426
+                  "y" : -1295,
+                  "x" : 325,
+                  "width" : 316,
+                  "height" : 226
                 },
                 "name" : "SendEventInviteConfirm"
               },
@@ -794,18 +794,18 @@ window.__imported__["synq-simple/layers.json.js"] = [
                 "image" : {
                   "path" : "images\/Layer-Time-E8CF9288-8C5E-4BDE-BDF5-E7DBC440F8F1.png",
                   "frame" : {
-                    "y" : -1506,
-                    "x" : 225,
-                    "width" : 456,
-                    "height" : 225
+                    "y" : -1401,
+                    "x" : 325,
+                    "width" : 213,
+                    "height" : 40
                   }
                 },
                 "imageType" : "png",
                 "layerFrame" : {
-                  "y" : -1506,
-                  "x" : 225,
-                  "width" : 456,
-                  "height" : 225
+                  "y" : -1401,
+                  "x" : 325,
+                  "width" : 213,
+                  "height" : 40
                 },
                 "name" : "Time"
               },
@@ -822,18 +822,18 @@ window.__imported__["synq-simple/layers.json.js"] = [
                     "image" : {
                       "path" : "images\/Layer-TextField-B8004A6C-BF48-40BB-8206-05160FA8B35F.png",
                       "frame" : {
-                        "y" : -1432,
-                        "x" : 225,
-                        "width" : 521,
-                        "height" : 232
+                        "y" : -1332,
+                        "x" : 325,
+                        "width" : 321,
+                        "height" : 31
                       }
                     },
                     "imageType" : "png",
                     "layerFrame" : {
-                      "y" : -1432,
-                      "x" : 225,
-                      "width" : 521,
-                      "height" : 232
+                      "y" : -1332,
+                      "x" : 325,
+                      "width" : 321,
+                      "height" : 31
                     },
                     "name" : "TextField"
                   }
@@ -842,10 +842,10 @@ window.__imported__["synq-simple/layers.json.js"] = [
                 "visible" : true,
                 "imageType" : "png",
                 "layerFrame" : {
-                  "y" : -1432,
-                  "x" : 225,
-                  "width" : 521,
-                  "height" : 232
+                  "y" : -1332,
+                  "x" : 325,
+                  "width" : 321,
+                  "height" : 31
                 },
                 "name" : "LocationTextField"
               },
@@ -862,18 +862,18 @@ window.__imported__["synq-simple/layers.json.js"] = [
                     "image" : {
                       "path" : "images\/Layer-TextField-E6BCA2D4-3DC5-4E6B-A4C9-E876BD1551FC.png",
                       "frame" : {
-                        "y" : -1351,
-                        "x" : 231,
-                        "width" : 521,
-                        "height" : 232
+                        "y" : -1251,
+                        "x" : 331,
+                        "width" : 321,
+                        "height" : 31
                       }
                     },
                     "imageType" : "png",
                     "layerFrame" : {
-                      "y" : -1351,
-                      "x" : 231,
-                      "width" : 521,
-                      "height" : 232
+                      "y" : -1251,
+                      "x" : 331,
+                      "width" : 321,
+                      "height" : 31
                     },
                     "name" : "TextField"
                   }
@@ -882,10 +882,10 @@ window.__imported__["synq-simple/layers.json.js"] = [
                 "visible" : true,
                 "imageType" : "png",
                 "layerFrame" : {
-                  "y" : -1351,
-                  "x" : 231,
-                  "width" : 521,
-                  "height" : 232
+                  "y" : -1251,
+                  "x" : 331,
+                  "width" : 321,
+                  "height" : 31
                 },
                 "name" : "TitleTextField"
               },
@@ -902,18 +902,18 @@ window.__imported__["synq-simple/layers.json.js"] = [
                     "image" : {
                       "path" : "images\/Layer-TextField-AAF1934F-685B-4587-A317-AB31056F06C1.png",
                       "frame" : {
-                        "y" : -1270,
-                        "x" : 225,
-                        "width" : 521,
-                        "height" : 232
+                        "y" : -1170,
+                        "x" : 325,
+                        "width" : 321,
+                        "height" : 31
                       }
                     },
                     "imageType" : "png",
                     "layerFrame" : {
-                      "y" : -1270,
-                      "x" : 225,
-                      "width" : 521,
-                      "height" : 232
+                      "y" : -1170,
+                      "x" : 325,
+                      "width" : 321,
+                      "height" : 31
                     },
                     "name" : "TextField"
                   }
@@ -922,10 +922,10 @@ window.__imported__["synq-simple/layers.json.js"] = [
                 "visible" : true,
                 "imageType" : "png",
                 "layerFrame" : {
-                  "y" : -1270,
-                  "x" : 225,
-                  "width" : 521,
-                  "height" : 232
+                  "y" : -1170,
+                  "x" : 325,
+                  "width" : 321,
+                  "height" : 31
                 },
                 "name" : "MessageTextField"
               },
@@ -939,18 +939,18 @@ window.__imported__["synq-simple/layers.json.js"] = [
                 "image" : {
                   "path" : "images\/Layer-EventSummary-DF1E8107-656E-4C42-AEE4-3283AC1F955A.png",
                   "frame" : {
-                    "y" : -1216,
-                    "x" : 198,
-                    "width" : 575,
-                    "height" : 301
+                    "y" : -1095,
+                    "x" : 319,
+                    "width" : 334,
+                    "height" : 61
                   }
                 },
                 "imageType" : "png",
                 "layerFrame" : {
-                  "y" : -1216,
-                  "x" : 198,
-                  "width" : 575,
-                  "height" : 301
+                  "y" : -1095,
+                  "x" : 319,
+                  "width" : 334,
+                  "height" : 61
                 },
                 "name" : "EventSummary"
               },
@@ -964,18 +964,18 @@ window.__imported__["synq-simple/layers.json.js"] = [
                 "image" : {
                   "path" : "images\/Layer-EventSummary-A644C02E-8F45-465F-A184-A718796ED5D4.png",
                   "frame" : {
-                    "y" : -1116,
-                    "x" : 198,
-                    "width" : 575,
-                    "height" : 301
+                    "y" : -994,
+                    "x" : 317,
+                    "width" : 336,
+                    "height" : 60
                   }
                 },
                 "imageType" : "png",
                 "layerFrame" : {
-                  "y" : -1116,
-                  "x" : 198,
-                  "width" : 575,
-                  "height" : 301
+                  "y" : -994,
+                  "x" : 317,
+                  "width" : 336,
+                  "height" : 60
                 },
                 "name" : "EventSummary"
               },
@@ -989,30 +989,30 @@ window.__imported__["synq-simple/layers.json.js"] = [
                 "image" : {
                   "path" : "images\/Layer-SendEventInvite-F4401EBA-5EB2-4E90-B5B3-796A6C669FAF.png",
                   "frame" : {
-                    "y" : -992,
-                    "x" : 197,
-                    "width" : 577,
-                    "height" : 250
+                    "y" : -892,
+                    "x" : 298,
+                    "width" : 375,
+                    "height" : 50
                   }
                 },
                 "imageType" : "png",
                 "layerFrame" : {
-                  "y" : -992,
-                  "x" : 197,
-                  "width" : 577,
-                  "height" : 250
+                  "y" : -892,
+                  "x" : 298,
+                  "width" : 375,
+                  "height" : 50
                 },
                 "name" : "SendEventInvite"
               }
             ],
             "id" : "EAFD716F-2F26-451F-9E99-BC820410D4DD",
-            "visible" : false,
+            "visible" : true,
             "imageType" : "png",
             "layerFrame" : {
-              "y" : -1506,
-              "x" : 197,
-              "width" : 577,
-              "height" : 764
+              "y" : -1401,
+              "x" : 298,
+              "width" : 375,
+              "height" : 559
             },
             "name" : "CreateEventInviteForm"
           },
