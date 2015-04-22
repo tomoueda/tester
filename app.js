@@ -1,5 +1,10 @@
 myLayers = Framer.Importer.load("imported/synq")
 
+screens = myLayers.Screens
+
+screens.x = 0
+screens.y = 0
+
 //Initial Clean up
 mainScreen = myLayers.MainScreen
 mainScreen.x = 0
