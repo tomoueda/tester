@@ -72,7 +72,7 @@ calendarIcon.on(Events.DragMove, function name(Events, layer) {
 })
 
 calendarIcon.on(Events.DragEnd, function name(event, layer) {
-    if (event.layerX > 266 * widthFactor) {
+    if (event.layerX > 530 * widthFactor) {
 	mutualAvailability.visible = false
 	calendarIcon.visible = false
 	inviteForm.visible = true
