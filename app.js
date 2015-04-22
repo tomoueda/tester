@@ -25,12 +25,15 @@ inviteForm.backgroundColor = "#FFFFFF"
 mutualAvailability.backgroundColor = "#FFFFFF"
 mutualAvailability.visible = false
 
+widthFactor = window.innerWidth / mainScreen.width
+heightFactor = window.innerHeight / mainScreen.height
+
 // Fix height / width on iphone6
 function adjustDimensions(layer) {
-  layer.width *= 2
-  layer.height *= 2
-  layer.x += layer.x
-  layer.y += layer.y
+  layer.width *= widthFactor
+  layer.height *= heightFactor
+  layer.x *= widthFactor
+  layer.y *= heightFactor
   for (var i = 0; i < layer.subLayers.length; i++) {
     var sublayer = layer.subLayers[i]
     adjustDimensions(sublayer)
@@ -41,7 +44,7 @@ adjustDimensions(mainScreen)
 
 //CalenderIcon Flow
 calendarIcon = new Layer({backgroundColor:"#72ffc6", x: 0, y: 0,
-			  width: 100, height: 100})
+			  width: 50 * widthFactor, height: 50 * heightFactor})
 calendarIcon.draggable.enabled = true
 calendarIcon.visible = false
 
@@ -64,7 +67,7 @@ calendarIcon.on(Events.DragMove, function name(Events, layer) {
 })
 
 calendarIcon.on(Events.DragEnd, function name(event, layer) {
-    if (event.layerX > 266 * 2) {
+    if (event.layerX > 266 * widthFactor) {
 	mutualAvailability.visible = false
 	calendarIcon.visible = false
 	inviteForm.visible = true
