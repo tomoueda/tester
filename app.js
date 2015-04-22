@@ -25,6 +25,20 @@ inviteForm.backgroundColor = "#FFFFFF"
 mutualAvailability.backgroundColor = "#FFFFFF"
 mutualAvailability.visible = false
 
+// Fix height / width on iphone6
+function adjustDimensions(layer) {
+  layer.width *= 2
+  layer.height *= 2
+  layer.x += layer.x
+  layer.y += layer.y
+  for (var i = 0; i < layer.subLayers.length; i++) {
+    var sublayer = layer.subLayers[i]
+    adjustDimensions(sublayer)
+  }
+}
+
+adjustDimensions(mainScreen)
+
 //CalenderIcon Flow
 calendarIcon = new Layer({backgroundColor:"#72ffc6", x: 0, y: 0,
 			  width: 50, height: 50})
